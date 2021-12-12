@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "education": [
+    {
+      "university": "University of Economic and Laws - VNU - HCM ( 8/2019 - Now)",
+      "major": "Management Information System Major (MIS)",
+      "gpa": 7.74
+    }
+  ],
+  "Skill": [
+    {
+      "skill1": "Writing Skills",
+      "skill2": "English Skills",
+      "skill3": "Basically Using Figma, Git",
+      "skill4": "Draw Diagrams Related To Business Analystt"
+    }
+  ],
+  "activity": [
+    {
+      "activity1": "RECEIVED A SCHOLARSHIP FOR ACADEMIC EXCELLENCE (2020-2021)",
+      "activity2": "JOIN THE SPRING VOLUNTEER SPRING AT THE UNIVERSITY OF NATURAL SCIENCES (2021)",
+      "activity3": "JOIN THE VOLUNTEERING CAMPAIGN TO DISTRIBUTE PORRIDGE FOR THE HOMELESS (8/2020)"
+    }
+  ],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" }
+}

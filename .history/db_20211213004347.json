@@ -1,0 +1,28 @@
+{
+  "posts": 
+  [
+      { 
+          "id": 1,
+          "title": "json-server",
+           "author": "typicode" 
+      }
+    ],
+  "education": [
+             {
+               "university": 1,
+               "major": "json-server",
+               "gpa": "typicode"
+             }
+  ],
+  "Skill":[
+    {
+      "skill1": "Writing Skills",
+      "skill2": "English Skills",
+      "skill3": "Basically Using Figma, Git",
+      "skill4": "Draw Diagrams Related To Business Analystt"
+    }
+  ]
+  ,
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" }
+}

@@ -1,0 +1,27 @@
+{
+  "posts": 
+  [
+      { 
+          "id": 1,
+          "title": "json-server",
+           "author": "typicode" 
+      }
+    ],
+  "education": [
+             {
+               "university": 1,
+               "major": "json-server",
+               "gpa": "typicode"
+             }
+  ],
+  "Skill":[
+    {
+      "university": 1,
+      "major": "json-server",
+      "gpa": "typicode"
+    }
+  ]
+  ,
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" }
+}
